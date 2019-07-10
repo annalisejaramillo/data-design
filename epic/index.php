@@ -10,8 +10,9 @@
 			<p>For school management website <a href="https://factsmgt.com/">factsmgt.com</p>
 		</div>
 		<div>
-		<p><a href="helicopter-helen.php">Persona</p>
-		<p><a href="use-case.php">Use Case</p>
+			<p><a href="helicopter-helen.php">Persona</a></p>
+			<p><a href="use-case.php">Use Case</a></p>
+			<p><a href="conceptual-model.html">Conceptual Model</a></p>
 		</div>
 	</body>
 </html>
