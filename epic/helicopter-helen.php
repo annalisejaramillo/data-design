@@ -38,7 +38,7 @@
 		</div>
 		<div>
 			<h2>Technology</h2>
-			<p>Type: Galaxy, Tablet</p>
+			<p>Type: Samsung Galaxy s8 os: android , Samsung Galaxy Tab S os: android </p>
 			<p>Facebook</p>
 			<p>Microsoft Publisher</p>
 		</div>

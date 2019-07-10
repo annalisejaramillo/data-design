@@ -24,12 +24,15 @@
 		<h2>Interactive Flow</h2>
 			<p><strong>These are the steps Helen must take to see kid&apos;s grades</strong></p>
 			<ol>
-				<li>Helen has logged into the FACTS site</li>
-				<li>On the left tab Helen clicks the student drop down</li>
-				<li>in the student drop down Helen clicks grades</li>
+				<li>On the left tab Helen clicks the student drop down </li>
+				<li>Site loads drop down which includes link to kid&apos;s grade page</li>
+				<li>In the student drop down Helen clicks grades</li>
+				<li>Site loads grades page</li>
 				<li>Helen can choose what kid&apos;s grades she would like to view</li>
-				<li>Helen can choose from each kid&apos;s classes and terms</li>
-				<li>Helen can now view all her kid&apos;s grades</li>
+				<li>Site loads that students list of courses and terms</li>
+				<li>Helen can select from each kid&apos;s classes and terms</li>
+				<li>Site loads particular class and term that was chosen</li>
+				<li>Helen can now view her kid&apos;s grades</li>
 			</ol>
 		</div>
 		<div>
