@@ -33,7 +33,7 @@
 			<p>dishes in the sink</p>
 			<p>bad grades</p>
 			<p>bullies</p>
-			<p>hurt kids</p>
+			<p>hurt children</p>
 			<p>gangster rap</p>
 		</div>
 		<div>
@@ -46,7 +46,7 @@
 			<h2>Attitudes and Needs</h2>
 			<p>Uses this site to see school calendar</p>
 			<p>likes that she can see when one of her kid&apos;s is absent</p>
-			<p>Is frustrated that it&apos;s confusing to switch between kid&apos;s</p>
+			<p>Is frustrated that it&apos;s confusing to switch between children&apos;s on mobile site</p>
 		</div>
 		<br>
 		<div>
