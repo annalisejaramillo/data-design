@@ -23,3 +23,13 @@ CREATE TABLE course (
 	FOREIGN KEY (courseProfileId) REFERENCES profile(profileId),
 	PRIMARY KEY (courseId)
 );
+
+CREATE TABLE family (
+	familyProfileId BINARY(16),
+	familyCourseID  BINARY(16),
+	INDEX (familyProfileId),
+	INDEX (familyCourseID),
+	FOREIGN KEY (familyProfileId) REFERENCES profile(profileId),
+	FOREIGN KEY (familyCourseID) REFERENCES course(courseId)
+);
+
