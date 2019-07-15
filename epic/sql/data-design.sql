@@ -14,3 +14,12 @@ CREATE TABLE profile (
 	PRIMARY KEY (profileId)
 );
 
+CREATE TABLE course (
+	courseId BINARY(16) NOT NULL ,
+	courseProfileId BINARY(16) NOT NULL,
+	courseAssignment VARCHAR(32),
+	courseGrade VARCHAR(16),
+	INDEX (courseProfileId),
+	FOREIGN KEY (courseProfileId) REFERENCES profile(profileId),
+	PRIMARY KEY (courseId)
+);
